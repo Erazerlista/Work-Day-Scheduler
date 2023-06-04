@@ -10,6 +10,15 @@ https://github.com/coding-boot-camp/crispy-octo-meme
 
 # Screenshot
 
+# References
+
+https://jquery.com/
+https://developer.mozilla.org/en-US/
+Class Zoom Videos (Third Party API Day 3)
+https://day.js.org/
+https://stackoverflow.com/questions/62904905/how-do-i-color-code-time-blocks-using-js
+Discord
+
 # User Story
 
 AS AN employee with a busy schedule
