@@ -6,9 +6,13 @@ https://github.com/coding-boot-camp/crispy-octo-meme
 
 # Repo
 
+https://github.com/Erazerlista/Work-Day-Scheduler
+
 # Site Live
 
 # Screenshot
+
+![snipofwork](https://github.com/Erazerlista/Work-Day-Scheduler/assets/128334161/77734754-5346-4cf7-99aa-53e322b9ee25)
 
 # References
 
