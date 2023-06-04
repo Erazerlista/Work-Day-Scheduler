@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Work Day Scheduler...
 
 # OG Code
 
@@ -46,4 +46,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
 # Work-Day-Scheduler-

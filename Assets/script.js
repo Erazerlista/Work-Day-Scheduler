@@ -22,11 +22,11 @@ $(function() {
   
     // Compare block with current hour and add class
     if (timeBlockHour < currentHour) {
-      $(this).removeClass("present future").addClass("past");
+      $(this).removeClass('present future').addClass('past');
     } else if (timeBlockHour === currentHour) {
-      $(this).removeClass("past future").addClass("present");
+      $(this).removeClass('past future').addClass('present');
     } else {
-      $(this).removeClass("past present").addClass("future");
+      $(this).removeClass('past present').addClass('future');
     }
   });
 
